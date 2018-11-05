@@ -71,7 +71,7 @@ void BCD::dispInt(int n){
       segments = 7;
       break;
       
-    case(8):
+    case (8):
       segments = 0;
       segments = 127;
       break;
