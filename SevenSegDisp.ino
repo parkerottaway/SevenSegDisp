@@ -3,7 +3,7 @@
  * Date:        04 November 2018
  * Board:       ELEGOO MEGA2560 R3
  * Version:     0.1
- * Description: The sketch creates a single BCD translater
+ * Description: The sketch creates a single BCD translator
  *              object num that accepts an integer (0-9) and
  *              outputs either HIGH or LOW for each 
  *              segment of a seven segment display
